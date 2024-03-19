@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');
+	font-style: normal;
+	font-weight: normal;
+} 
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('http://dyslexicfonts.com/fonts/OpenDyslexic-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+} 
+
+@font-face {
+	font-family: eulexia;
+	src: url('http://dyslexicfonts.com/fonts/eulexia.ttf');
+} 
+
+* {
+	font-size:20px;
+	line-height:200%;
+	color: #191A42;
+	font-family:opendyslexic !important;
+}

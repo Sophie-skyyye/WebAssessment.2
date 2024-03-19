@@ -9,3 +9,8 @@
         <li><a href="/About">The Journey</a></li>
     </ul>
 </div>
+
+
+<style>
+   
+</style>
