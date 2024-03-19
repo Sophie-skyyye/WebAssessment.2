@@ -23,3 +23,28 @@
 	color: #191A42;
 	font-family:opendyslexic !important;
 }
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+nav ul{
+    flex: 1;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0% 2%;    
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.body{
+    background-color: aliceblue;
+}
